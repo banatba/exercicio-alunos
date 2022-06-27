@@ -1,7 +1,6 @@
 Exercicio-aluno
 Repositório destinado ao exercício proposto pelo Professor Daniel Ohata
-Inicío
-
+inicio  
 ```
 Informar quantia de alunos na sala.
  Meta de salas foi atingida? 
